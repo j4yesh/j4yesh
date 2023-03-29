@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jayesh</h1>
-<h3 align="center">DSA | Software Development</h3>
+<h3 align="center">Software Development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*V2bAwCbHP424LUx_9SUx3A.gif">
 
 <h3 align="left">Connect with me:</h3>
