@@ -1,11 +1,7 @@
-<h1 align="center">Hey 👋, I'm Jayesh</h1>
+<h1 align="center">Hey , I'm Jayesh</h1>
 
 <p align="center">
-  <b>Software Developer • Backend Engineer • Problem Solver</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot;Backend+%7C+System+Design;DSA+%7C+LLD;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Problem+Solver+%7C+Builder;Curious+Mind+%7C+Always+Learning;Build+%7C+Break+%7C+Learn;Think.+Create.+Repeat." />
 </p>
 
 ---
@@ -13,11 +9,11 @@
 ### ⚡ About
 
 ```text
-☕ Java / Spring Boot
-🗄️ PostgreSQL / MongoDB
-🌐 REST APIs / WebSockets
-🧠 DSA / LLD / System Design
-🚀 Building things that scale
+Turning curiosity into experiments,
+experiments into skills,
+and skills into things worth building.
+
+Still experimenting.
 ```
 
 ### 🛠️ Stack
@@ -28,10 +24,10 @@
 
 ### 🧩 Problem Solving
 
-**800+ LeetCode problems solved**
-
 <a href="https://leetcode.com/j4yesh_/">LeetCode →</a>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/j4yesh_?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
 ---
 
 <p align="center">
